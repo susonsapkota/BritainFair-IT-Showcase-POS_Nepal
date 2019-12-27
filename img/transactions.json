@@ -1,0 +1,57 @@
+[
+  {
+    "date": "19-12-2019",
+    "time": "15:45",
+    "route": "3",
+    "bus": "23",
+    "from": "Kalimati",
+    "to": "Thapathali",
+    "fare": "20",
+    "type": "cash",
+    "remarks": "paid"
+  },
+  {
+    "date": "20-12-2019",
+    "time": "09:15",
+    "route": "2",
+    "bus": "17",
+    "from": "Kalanki",
+    "to": "Balaju",
+    "fare": "15",
+    "type": "card",
+    "remarks": "paid"
+  },
+  {
+    "date": "21-12-2019",
+    "time": "12:15",
+    "route": "7",
+    "bus": "12",
+    "from": "Ratnapark",
+    "to": "Maharajgunj",
+    "fare": "20",
+    "type": "card",
+    "remarks": "paid"
+  },
+  {
+    "date": "22-12-2019",
+    "time": "09:10",
+    "route": "2",
+    "bus": "10",
+    "from": "Koteshor",
+    "to": "Aakantakuna",
+    "fare": "25",
+    "type": "cash",
+    "remarks": "paid"
+  },
+  {
+    "date": "23-12-2019",
+    "time": "08:10",
+    "route": "22",
+    "bus": "11",
+    "from": "Kamalpokhari",
+    "to": "RNAC",
+    "fare": "15",
+    "type": "card",
+    "remarks": "paid"
+  }
+]
